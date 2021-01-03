@@ -182,7 +182,6 @@
     letter-spacing: 1px;
     text-transform: uppercase;
     cursor: pointer;
-
 }
 
 .header {
@@ -194,8 +193,8 @@
 
 .header h1 {
     position: absolute;
-    top: 15%;
-    left: 50%;
+    top: 5%;
+    left: 75%;
     transform: translateX(-50%);
     text-align: center;
     color: #fff;
